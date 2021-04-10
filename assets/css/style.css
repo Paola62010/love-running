@@ -28,7 +28,7 @@ h2 {
     margin-left: 30px;
 }
 
-/*navigation links*/
+/* navigation links */
 
 #menu {
     font-size: 110%;
@@ -59,7 +59,7 @@ h2 {
     border-bottom: 1px solid #3a3a3a;
 }
 
-/*hero image and cover text*/
+/* hero image and cover text */
 
 #hero-outer {
     height: 600px;
@@ -113,7 +113,7 @@ h2 {
 
 }
 
-/*club ethos*/
+/* club ethos */
 
 #club-ethos {
     height: 600px;
@@ -190,7 +190,7 @@ hr {
     border-radius: 50%;
 }
 
-/*event times*/
+/* event times */
 
 #times {
     background-image: url(../images/dublin-city.webp);
@@ -215,4 +215,25 @@ hr {
 
 #times h2 {
     color: #fafafa;
+}
+
+/* footer */
+
+footer {
+    height: 150px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks>li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
 }
